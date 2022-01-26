@@ -13,3 +13,14 @@ body{
 .navbar-container{
     background-color: #262837;
 }
+
+.abt-background{
+    background-color: aqua;
+}
+.pro-pic{
+    height: 250px;
+    width: 250px;
+}
+.text-all{
+    text-align: justify;
+}
