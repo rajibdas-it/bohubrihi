@@ -27,3 +27,19 @@ body{
 .about-container{
     background-color: #00BDBD;
 }
+.edu-container{
+    background-color: #eeeeee;
+}
+
+.edu-box-color{
+    background-color: #FB857F;
+}
+.edu-box-text-color{
+    color: #FB857F;
+}
+.circle{
+    background-color:#FB857F;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
