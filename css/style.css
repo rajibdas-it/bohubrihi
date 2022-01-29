@@ -62,3 +62,29 @@ body{
 .form-bg{
     background-color: #464D5E;
 }
+.inner-color{
+    background-color: #585F73;
+}
+.msg-btn{
+    background-color: #FF907D;
+}
+.msg-btn:hover{
+    background-color: green;
+}
+.footer{
+    background-color: #20A8E4;
+}
+.circle2{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    color: #2BB3DD;
+
+}
+.circle2:hover{
+    background-color: #474D5D;
+}
