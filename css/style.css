@@ -11,7 +11,10 @@ body{
 }
 
 .navbar-container{
+    top: 0;
     background-color: #262837;
+    position: sticky;
+    z-index: 2;
 }
 
 .abt-background{
