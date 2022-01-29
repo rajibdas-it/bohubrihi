@@ -43,3 +43,16 @@ body{
     height: 150px;
     border-radius: 50%;
 }
+
+.porject-container{
+    background-color: #2BB0DE;
+}
+.pic-size{
+    width: 160px;
+    height: 110px;
+    
+}
+.text-jus{
+    text-align: justify;
+    text-decoration: none;
+}
